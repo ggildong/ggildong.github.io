@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "JCJ"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "/assets/images/jcj.jpg"
+  bio              : "I am an **amazing** person?"
   location         : "Somewhere"
   email            :
   links:
