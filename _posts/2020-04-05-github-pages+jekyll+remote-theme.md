@@ -4,7 +4,6 @@ title:  "GitHub Pages - jekyll remote theme"
 date:   2020-04-05
 categories: github
 tags: github jekyll
-comments: true
 ---
 
 
@@ -37,6 +36,7 @@ url                 : "https://{username}.github.io"
 baseurl             : "" 
 ......
 ```
+
 # 4. index.html
 >   `{username}`.github.io/`index.html`
 >
