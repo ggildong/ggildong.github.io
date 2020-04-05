@@ -19,18 +19,18 @@ GitHub Pages + jekyll + remote theme 로 static web page 만드는 방법.
 
 >   https://github.com/topics/jekyll-theme
 >
->   -> https://github.com/mmistakes/minimal-mistakes/ 선택
+>   mistakes/minimal-mistakes 선택
 
 # 3. _config.yml
 
 >   https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
 >   `copy`
 >
->   ```https://github.com/{username}/{username}.github.io```
->   -> Create new file
+>   https://github.com/{username}/{username}.github.io
+>   `Create new file`
 >
 >   `{username}`.github.io/`_config.yml`
-```yaml
+```yml
 ......
 remote_theme        : "mmistakes/minimal-mistakes"
 ......
@@ -49,9 +49,10 @@ author_profile: true
 ---
 ```
 
-# 5. https://`{username}`.github.io/   접속해보기
+# 5. https://`{username}`.github.io/ 접속해보기
 
 # 6. post 작성하기
-> `_posts` 아래의 md 파일들을 인식하여 보여준다. 파일 이름 형식 `YYYY-MM-DD-name-of-post.md`
+> `_posts` 아래의 md 파일들을 인식하여 보여준다.
+> 파일 이름 형식 `YYYY-MM-DD-name-of-post.md`
 
 
