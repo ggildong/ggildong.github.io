@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "GitHub Pages - jekyll remote theme"
 date:   2020-04-05
 categories: github
@@ -16,11 +16,13 @@ GitHub Pages + jekyll + remote theme 로 static web page 만드는 방법.
 >   `{username}`.github.io
 
 # 2. jekyll theme
+
 >   https://github.com/topics/jekyll-theme
 >
 >   -> https://github.com/mmistakes/minimal-mistakes/ 선택
 
 # 3. _config.yml
+
 >   https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
 >   `copy`
 >
@@ -38,8 +40,8 @@ baseurl             : ""
 ```
 
 # 4. index.html
+
 >   `{username}`.github.io/`index.html`
->
 ```markdown
 ---
 layout: home
